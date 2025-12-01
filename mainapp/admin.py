@@ -13,7 +13,3 @@ class Contact_Admin(admin.ModelAdmin):
 
 
 
-
-
-
-
